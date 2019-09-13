@@ -2,10 +2,7 @@
 
 starthook MF_WarehouseHeist
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF   
-192.99.5.197 - Parker​
-54.39.245.132 185.249.196.236 - MrFunBeard
+145.239.169.230 - MancosRPTEST
 
 endhook MF_WarehouseHeist
 
@@ -13,9 +10,7 @@ endhook MF_WarehouseHeist
 
 starthook mf_crafting
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF   
-192.99.5.197 - Parker​
+145.239.169.230 - MancosRPTEST
 
 endhook mf_crafting
 
@@ -23,8 +18,7 @@ endhook mf_crafting
 
 starthook MF_Housing
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF   
+145.239.169.230 - MancosRPTEST
 
 endhook MF_Housing
 
@@ -32,8 +26,7 @@ endhook MF_Housing
 
 starthook mf_furnicatalogue
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF   
+145.239.169.230 - MancosRPTEST 
 
 endhook mf_furnicatalogue
 
@@ -41,10 +34,7 @@ endhook mf_furnicatalogue
 
 starthook MF_PropertyRaid
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF   
-192.99.5.197 - Parker​
-54.39.245.132 185.249.196.236 - MrFunBeard
+145.239.169.230 - MancosRPTEST
 
 endhook MF_PropertyRaid
 
@@ -68,10 +58,7 @@ endhook MF_PawnShop
 
 starthook MF_CriminalTracker
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF 
-192.99.5.197 - Parker​
-144.217.194.67 95.145.136.16 - lurka
+145.239.169.230 - MancosRPTEST
 
 endhook MF_CriminalTracker
 
@@ -95,9 +82,7 @@ endhook MF_DopePlant
 
 starthook MF_Stress
 
-14.200.59.28 - >_
-​217.195.155.194 86.0.30.188 - MF
-192.99.5.197 - Parker
+145.239.169.230 - MancosRPTEST
 
 endhook MF_Stress
 
@@ -113,18 +98,7 @@ endhook esx_policemdt
 
 starthook MF_Status
 
-14.200.59.28 - >_
-​217.195.155.194 86.0.30.188 - MF
-2a01:4f8:192:621e::2 144.76.126.30 - Mads
-203.122.217.132 - driftonez
-54.39.245.132 185.249.196.236 - MrFunBeard
-54.39.28.208 158.69.177.68 -  xKarmageddon
-2001:818:ea1d:2c00:8598:ba1f:3c54:75dc 185.113.141.25 148.63.143.10 - vtOne
-185.249.196.13 185.249.196.88 58.69.177.69 192.99.45.131 - NukeTheWhales
-2a05:7cc0:0:185:80:128:19:1 92.42.46.110 185.80.128.19 - Dariune
-164.132.204.225 - Zedine
-212.162.151.95 192.0.129.76 - ɢօɖɦǟȶɛֆʍɛ.ɛӼɛ
-74.91.120.224 - ItsMaserati
+145.239.169.230 - MancosRPTEST
 
 endhook MF_Status
 
@@ -229,47 +203,7 @@ endhook MF_Vangelico
 
 starthook MF_DrugSales
 
-14.200.59.28 - >_
-217.195.155.194 86.0.30.188 - MF
-69.195.131.122 - Beerasaurus
-51.77.167.37 - Capi
-185.223.28.69 185.223.30.79 192.223.31.231 - Jessica
-51.75.57.97 51.75.34.77 - Dorian
-144.217.194.67 95.145.136.16 - lurka
-2a01:4f8:192:621e::2 144.76.126.30 - Mads
-2001:818:ea1d:2c00:8598:ba1f:3c54:75dc - vtONE
-167.86.114.18 - Steadyspring
-145.239.206.240 144.217.68.127 - JM
-2a05:7cc0:0:185:80:128:19:1 92.42.46.110 - Dariune
-192.99.5.197 - parker
-185.113.141.25 148.63.143.10 - vtOne
-87.238.197.68 85.214.106.30 - UltraDev
-139.99.62.78 2402:1f00:8001:54e:: - KyleC
-192.99.200.224 - Twisted
-164.132.204.225 - Zedine​
-51.91.167.83 - Newton
-139.99.148.92 - Lean Squad
-104.238.205.118 - Ted
-54.39.245.132 185.249.196.236 - MrFunBeard
-139.99.209.64 2402:1f00:8101:840:: - Aussiecop31
-2001:b011:c000:231e:a1:24d1:475b:4277 114.34.96.1 61.227.181.138 - Blacknight1060
-131.221.32.107 - Sebastien
-88.214.56.140 - Jordan Lewis
-54.36.124.9 - Alejandro Almenar
-94.12.105.151 193.70.80.156 2a02:c7f:8eb3:c500:4890:f159:893f:259d - doomz
-2001:b011:c000:46c9:a1:24d1:475b:4277 - Blacknight1060
-144.76.112.52 2a01:4f8:192:621e::2 2001:41d0:1000:c53:: - grantdeckerr
-185.249.196.95 - AzulPlays
-212.162.151.95 192.0.129.76 - godhateme
-158.69.23.54 - Joe Johnson
-144.217.54.60 185.249.196.31 - Papa Reckless
-147.135.30.138 85.76.162.200 - Mylly
-2001:818:ea1d:2c00:8598:ba1f:3c54:75dc 185.113.141.25 148.63.143.10 - vtOne
 145.239.169.230 - MancosRPTEST
-185.239.237.206 134.255.225.125 - RiotSmokes
-92.42.46.189 - Jakey
-185.25.207.102 54.37.88.126 - Myers
-203.122.217.132 - Driftzone
 
 endhook MF_DrugSales​
 
