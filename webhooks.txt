@@ -7,3 +7,35 @@ starthook MF_VehSales​
 endhook MF_VehSales
 
 ---
+
+starthook MF_DrugSales
+
+145.239.169.230 - TEST
+
+endhook MF_DrugSales​
+
+---
+
+starthook MF_BMSales
+
+145.239.169.230 - TEST
+
+endhook MF_BMSales​
+
+---
+
+starthook MF_DopePlant
+
+145.239.169.230 - TEST
+
+endhook MF_DopePlant​
+
+---
+
+starthook MF_MobileMeth
+
+145.239.169.230 - TEST
+
+endhook MF_MobileMeth​
+
+---
