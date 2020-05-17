@@ -2,7 +2,7 @@
 
 starthook MF_VehSales​
 
-145.239.169.230 - TEST
+88.198.26.247 - TEST
 
 endhook MF_VehSales
 
@@ -10,7 +10,7 @@ endhook MF_VehSales
 
 starthook MF_DrugSales
 
-145.239.169.230 - TEST
+88.198.26.247 - TEST
 
 endhook MF_DrugSales​
 
@@ -18,7 +18,7 @@ endhook MF_DrugSales​
 
 starthook MF_BMSales
 
-145.239.169.230 - TEST
+88.198.26.247 - TEST
 
 endhook MF_BMSales​
 
@@ -26,7 +26,7 @@ endhook MF_BMSales​
 
 starthook MF_DopePlant
 
-145.239.169.230 - TEST
+88.198.26.247 - TEST
 
 endhook MF_DopePlant​
 
@@ -34,7 +34,7 @@ endhook MF_DopePlant​
 
 starthook MF_MobileMeth
 
-145.239.169.230 - TEST
+88.198.26.247 - TEST
 
 endhook MF_MobileMeth​
 
